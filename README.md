@@ -16,7 +16,11 @@
 
 ---
 
-<!-- Add a gameplay.gif or screenshots here when ready: ![DroneDash gameplay](screenshots/gameplay.gif) -->
+<p align="center">
+  <img src="screenshots/gif1.gif" width="280" alt="DroneDash gameplay">
+  &nbsp;
+  <img src="screenshots/gif2.gif" width="280" alt="DroneDash gameplay">
+</p>
 
 ## About
 
