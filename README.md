@@ -16,9 +16,7 @@
 
 ---
 
-> 📸 Drop a `gameplay.gif` and a couple of stills into [`screenshots/`](screenshots/), then uncomment the line below.
-
-<!-- ![DroneDash gameplay](screenshots/gameplay.gif) -->
+<!-- Add a gameplay.gif or screenshots here when ready: ![DroneDash gameplay](screenshots/gameplay.gif) -->
 
 ## About
 
